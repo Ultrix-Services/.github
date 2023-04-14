@@ -16,5 +16,5 @@
 - 🔭 We are currently working on Ultrix OS, Ultrix Virtual Assistant and whatever else!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?=ultrixos&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrixos&theme=github_dark)
 </html>
