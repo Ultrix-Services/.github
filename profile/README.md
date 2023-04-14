@@ -1,4 +1,4 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Jackson!;Python+Programmer;HTML+Programmer;Linux+enthusiast;Creator+of+Ultrix+OS+and+AI">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+We+are+Ultrix!;Python+Programmer;HTML+Programmers;Linux+enthusiasts;Creators+of+Ultrix+OS+and+AI">
 <h1 align="center">Hi, We're <a href="https://ultrixos.github.io">Ultrix</a></h1>
 <h3 align="center">Linux enthusiasts, Python programmers, and Creators of Ultrix OS.</h3>
 <h2>Programmer Humor</h2>
@@ -16,5 +16,4 @@
 - 🔭 We are currently working on Ultrix OS, Ultrix Virtual Assistant and whatever else!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrixos&theme=github_dark)
 </html>
